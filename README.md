@@ -57,6 +57,6 @@ python deploy_tunnel_ngrok.py
 - Ngrok free tier membatasi jumlah tunnel aktif, pastikan mematikan tunnel lama sebelum membuka yang baru.
 
 ## Tim Pengembang
-Amelia Rahmadani
-M. Zacky
+- Amelia Rahmadani
+- M. Zacky
 
